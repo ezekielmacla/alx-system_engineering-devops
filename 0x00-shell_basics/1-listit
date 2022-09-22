@@ -1,1 +1,2 @@
-#!/bin/bash quote> ls
+#!/bin/bash
+ls
